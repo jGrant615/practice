@@ -1,6 +1,6 @@
 //Login system that allows 3 attempts
 
-public class Exercise3{
+public class login{
     public static void Main(){
         string user = "admin";
         string pass = "password";
