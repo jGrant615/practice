@@ -24,7 +24,6 @@ public class Operations{
             System.Console.WriteLine("Invalid Operation!");
         }
         
-        System.Console.WriteLine("Result = {0}", result);
-        
+        System.Console.WriteLine("Result = {0}", result);     
     }//CLOSE MAIN
 }
