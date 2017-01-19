@@ -32,7 +32,6 @@ public class login{
         } else{
             result = true;
         }
-        
         if(result){
             System.Console.WriteLine("Access Granted");
         } else{
